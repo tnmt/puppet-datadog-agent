@@ -34,7 +34,7 @@
     },
     {
       "name": "puppet/zypprepo",
-      "version_requirement": ">=3.1.0 <4.0.0"
+      "version_requirement": ">=3.1.0 <=4.0.1"
     }
   ],
   "operatingsystem_support": [
